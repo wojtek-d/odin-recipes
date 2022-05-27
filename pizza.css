@@ -1,0 +1,15 @@
+#title {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  flex-shrink: 1;
+  align-items: center;
+  width: 100%;
+  text-align: left;
+}
